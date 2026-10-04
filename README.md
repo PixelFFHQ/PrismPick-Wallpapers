@@ -373,6 +373,16 @@ Individual wallpaper usage terms may be documented separately where necessary.
 
 ---
 
+## Wallpaper Rights
+
+PrismPick-Wallpapers contains a mix of original and third-party wallpaper artwork.
+
+All third-party artwork remains the property of its respective creator or rights holder.
+
+If you are a rights holder and would like an image removed, please open an issue or contact PixelFF and it will be removed promptly.
+
+---
+
 ## Branding
 
 The PixelFF, PrismPick, and PrismPane names, logos, and associated branding are not granted for use as official branding for third-party wallpaper libraries.
